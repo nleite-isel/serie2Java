@@ -1,0 +1,10 @@
+series/serie2/GetMiddleTest.java
+ series.serie2.GetMiddleTest
+series/serie2/DistinctTest.java
+ series.serie2.DistinctTest
+series/serie2/mapCollections/HashMapTest.java
+ series.serie2.mapCollections.HashMapTest
+series/serie2/BubbleSortTest.java
+ series.serie2.BubbleSortTest
+series/serie2/ListUtilTest.java
+ series.serie2.ListUtilTest
